@@ -1,0 +1,6 @@
+{
+  "name": "myApp",
+  "integrations": {},
+  "type": "vue",
+  "target": "atom"
+}
