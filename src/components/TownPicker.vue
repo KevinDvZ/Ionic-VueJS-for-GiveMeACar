@@ -10,7 +10,7 @@
       <ion-select-option value="rennes">Rennes</ion-select-option>
       <ion-select-option value="angers">Angers</ion-select-option>
       <ion-select-option value="laval">Laval</ion-select-option>
-      <ion-select-option value="laRocheSurYon">La Roche sur Yon</ion-select-option>
+      <ion-select-option value="laRocheSurYon">La Roche-sur-Yon</ion-select-option>
     </ion-select>
   </ion-item>
   </div>
